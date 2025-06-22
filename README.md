@@ -30,8 +30,8 @@ A powerful and intuitive desktop application for analyzing CSV data with beautif
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/csv-data-analyzer.git
-cd csv-data-analyzer
+git clone https://github.com/teaminfinitydev/CSV-Data-Analyzer.git
+cd CSV-Data-Analyzer
 ```
 
 2. **Install dependencies**
@@ -121,7 +121,8 @@ The application features a clean, professional interface with:
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! 
+Please feel free to submit a Pull Request.
 
 ## 📄 License
 
@@ -146,5 +147,3 @@ If you encounter any issues or have questions:
 - Automated report scheduling
 
 ---
-
-**Made with ❤️ for data enthusiasts and analysts**"# CSV-Data-Analyzer" 
